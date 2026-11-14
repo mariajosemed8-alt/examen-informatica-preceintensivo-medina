@@ -1,6 +1,6 @@
 # Informe de situación del curso
 
-- **Enlace a Google Docs (cualquier persona con el enlace puede ver):**
+- **Enlace a Google Docs (cualquier persona con el enlace puede ver):**https://docs.google.com/document/d/19AvWm_jsP1nNFxRvwtjBJ_zOFjjlD9JXSFQqFArkl5Y/edit?usp=sharing
 - **Archivo subido:** `03-informe/informe.pdf`
 
 ## Estructura obligatoria del informe (1–2 páginas)
