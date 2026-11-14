@@ -5,15 +5,11 @@ Mínimo 3 búsquedas. Una sección por búsqueda.
 ## Búsqueda 1
 - **Pregunta que hice:*como afecta la inasistencia reiterada al rendimiento escolar en secundaria argentina ?
 - **Dato obtenido:**La inasistencia reiterada en la secundaria argentina afecta negativamente el rendimiento porque interrumpe la continuidad de los aprendizajes, genera vacíos de contenidos, reduce la participación y aumenta el riesgo de repetición y abandono. Las evidencias nacionales muestran una relación negativa entre ausencias y desempeño, especialmente en Matemática, Lectura y Ciencias.
-- **Fuente (enlace):**ext
 **Fuente:** Videla, B., Nistal, M. y Orlicki, E. (2026). *Ausentismo: ¿qué sabemos acerca de cuánto faltan los estudiantes de secundaria?* Argentinos por la Educación.  
 **Enlace:** https://argentinosporlaeducacion.org/wp-content/uploads/2026/04/Ausentismo-estudiantil-3.pdf  
 **Fecha de publicación:** abril de 2026
-
-
 ## Búsqueda 2
 - **Pregunta que hice:**Que estrategia usan los preceptores para mejorar la asistencia nombrar 3  estrategias  claves. 
-
 - **Dato obtenido:**Estrategias clave
 Estrategia	Cómo la aplica el preceptor	Fuente y fecha
 Estrategia	Cómo la aplica el preceptor	Fuente y fecha
@@ -28,16 +24,10 @@ Entre Ríos, Ausentismo: Hablemos de docentes, agosto de 2026; CABA, Seguimiento
 -   Consejo General de Educación de Entre Ríos (2026). *Ausentismo: Hablemos de docentes*.  
    **Enlace:** https://cge.entrerios.gov.ar/wp-content/uploads/2026/08/Docentes-Ausentismo-y-Aprendizajes-Hablemos-de.pdf
 - **Fecha de la fuente:**agosto de 2026.
-
 ## Búsqueda 3
 - **Pregunta que hice:**Que dice la normativa de asistencia secundaria? nombrar el eje central de la normativa.
 - **Dato obtenido:**El eje central de la normativa de asistencia en secundaria es garantizar la regularidad de la trayectoria escolar: el estudiante debe asistir diariamente, las inasistencias se registran y justifican según reglas específicas, y la escuela debe intervenir pedagógicamente antes de que las faltas afecten el aprendizaje o provoquen la pérdida de la condición de regular.
-
-Eje central
-La normativa no trata la asistencia solo como un requisito administrativo: establece que cada ausencia debe ser registrada, comunicada y abordada mediante estrategias que permitan al estudiante recuperar los contenidos trabajados.
-
 En la provincia de Buenos Aires, por ejemplo, cuando un estudiante alcanza 10 inasistencias —justificadas o no—, la escuela debe convocar a los adultos responsables para acordar un compromiso que garantice su asistencia.
-
 Reglas principales
 Aspecto	Lo que establece la normativa
 Asistencia obligatoria	Los estudiantes de secundaria deben asistir diariamente durante el ciclo lectivo, según el turno y la organización de la escuela. 
